@@ -1,2 +1,2 @@
 # dotfiles
-My personal dot files
+Random collection of personal dot files
